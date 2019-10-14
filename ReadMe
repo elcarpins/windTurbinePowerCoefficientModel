@@ -1,0 +1,3 @@
+The "functionNeuralNetwork" is a MATLAB Function in which a neural network has been trained with three sets of data developed with 
+a blade element momentum algorithm covering a wind turbine range from 2 to 10 MW. The neural network models the power coefficient
+of a wind turbine based on the pitch angle and the tip speed ratio.
