@@ -2,12 +2,10 @@
 
 **Version 1.0.0**
 
-Description: The present repository shares the neural network algorithm described in the manuscript: Wind turbine power coefficient models based on neural networks 
-and polynomial fitting. The power coefficient parameter represents the aerodynamic wind turbine efficiency. The "functionNeuralNetwork" is a MATLAB Function in which 
-a neural network has been trained with three sets of data developed with a blade element momentum algorithm covering a wind turbine range from 2 to 10 MW. The neural 
-network models the power coefficient of a wind turbine based on the pitch angle and the tip speed ratio.
+Description: The present repository shares the neural network algorithm described in the manuscript: Wind turbine power coefficient models based on neural networks and polynomial fitting. The power coefficient parameter represents the aerodynamic wind turbine efficiency. The "functionNeuralNetwork" is a MATLAB Function in which a neural network has been trained with three sets of data developed with a blade element momentum algorithm covering a wind turbine range from 2 to 10 MW. The neural network models the power coefficient of a wind turbine based on the pitch angle and the tip speed ratio.
 
-Motivation: Since the 1980s, several equations have been used in the literature to study the power coefficient as a function of the tip speed ratio and the pitch angle. 
-Compared to all the algorithms found in the literature, the proposed models reduced the power coefficient error by at least 55% compared to the best numerical approximation 
-from the literature. An error reduction in the power coefficient parameter may have a large impact on many wind energy conversion system studies, such as those treating 
-dynamic and transient behaviours.
+Motivation: Since the 1980s, several equations have been used in the literature to study the power coefficient as a function of the tip speed ratio and the pitch angle. Compared to all the algorithms found in the literature, the proposed models reduced the power coefficient error by at least 55% compared to the best numerical approximation from the literature. An error reduction in the power coefficient parameter may have a large impact on many wind energy conversion system studies, such as those treating dynamic and transient behaviours.
+
+Please, if the code is used, I would appreciate attribution. This usually includes adding the following reference: 
+
+Carpintero-Renteria, M., Santos-Martin, D., Lent, A., & Ramos, C. (2020). Wind turbine power coefficient models based on neural networks and polynomial fitting. IET Renewable Power Generation, 14(11), 1841-1849.
